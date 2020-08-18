@@ -1,6 +1,6 @@
 # StockScraper
 # Run Instructions 
 > scrapy crawl stocks
-Enter the url of the company to scrape 
+Enter the symbol of the company you want to scrape
 
 Results will be shown in 'output.txt'
