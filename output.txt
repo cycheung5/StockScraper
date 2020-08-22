@@ -1,0 +1,14 @@
+"company" : Alphabet Inc. (GOOG) 
+"current_price" : 1,517.98 
+"current_diff" : +10.25 
+"current_perc_diff" : +0.68% 
+"prev_close" : 1,507.73 
+"bid" : 1,518.01 x 1200 
+"ask" : 1,522.79 x 900 
+"day_range" : 1,507.97 - 1,525.61 
+"PE_ratio : 33.37"
+News : [
+TikTok star Zach King on security concerns: 'I think we should clear them up' : /news/tik-tok-star-zach-king-on-security-concerns-i-think-we-should-clear-them-up-213956278.html,
+Google warns users in Australia free services are at risk if it's forced to share ad revenue with 'big media' : /news/google-warns-users-australia-free-100014233.html,
+Apple Threatens to Terminate Epic’s Developer Account : /news/google-warns-australia-proposed-antitrust-122815562.html,
+]

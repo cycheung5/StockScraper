@@ -14,10 +14,10 @@ class stockspider(scrapy.Spider):
         request.meta['dont_redirect'] = True  
         request.meta['handle_httpstatus_list'] = [302]        
         return [request]
+        
 
     def parse(self, response):
         inspect_response(response, self) # Enters scrapy shell in command line 
-
         current = response.xpath('//*[@id="quote-header-info"]/div[3]/div[1]/div')
         stock_t1 = response.xpath('//*[@id="quote-summary"]/div[1]/table/tbody')
         stock_t2 = response.xpath('//*[@id="quote-summary"]/div[2]/table/tbody')
